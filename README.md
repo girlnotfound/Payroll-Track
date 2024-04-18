@@ -10,6 +10,10 @@
 
 - The console displays aggregated data such as the average employee salary offering a quick snapshot into the organizations payroll cost.
 
+## Usage
+
+![Sceenshot of Payroll Track Webpage](./assets/images/payroll-track.png)
+
 ## Collaborators
 
 This project was made possible with the help of:
